@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.7.22)  25 SEP 2012 22:50
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.7.22)  26 SEP 2012 03:11
 entering extended mode
  %&-line parsing enabled.
 **\nonstopmode\def\TTLATEX{1}\input{resume}
@@ -57,14 +57,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 28.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 33.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 35.
 (/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 33.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 35.
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--76
+Underfull \hbox (badness 10000) in paragraph at lines 72--77
 
  []
 
@@ -74,11 +74,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--76
 Here is how much of TeX's memory you used:
  308 strings out of 493848
  3331 string characters out of 1152823
- 54034 words of memory out of 3000000
+ 55034 words of memory out of 3000000
  3663 multiletter control sequences out of 15000+50000
  5252 words of font info for 19 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 30i,4n,21p,169b,163s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,4n,21p,196b,157s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive
 /fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type
 1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/public/am
@@ -86,7 +86,7 @@ sfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
 r7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsl10.pfb></us
 r/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/tex
 mf-texlive/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on resume.pdf (1 page, 91830 bytes).
+Output written on resume.pdf (1 page, 93030 bytes).
 PDF statistics:
  34 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
