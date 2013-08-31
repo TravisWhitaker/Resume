@@ -1,23 +1,18 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.7.22)  9 DEC 2012 16:44
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=latex 2013.5.20)  31 AUG 2013 13:10
 entering extended mode
+ restricted \write18 enabled.
  %&-line parsing enabled.
 **resume.tex
 (./resume.tex
-LaTeX2e <2009/09/24>
-Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
-yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
-ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
-9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
-skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
-orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
-, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
-rtuguese, spanish, galician, catalan, swedish, ukenglish, pinyin, loaded.
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
+aded.
 (./res.cls
 Document Style `res' <26 Sep 89>.
 Document Class: res 2000/05/19 v1.4b Resume class
-(/usr/share/texmf-texlive/tex/latex/base/article.cls
+(/usr/share/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/share/texmf-texlive/tex/latex/base/size10.clo
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -59,28 +54,22 @@ LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--26
+Underfull \hbox (badness 10000) in paragraph at lines 15--23
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 27.
+(Font)              <7> on input line 24.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 27.
-
-Overfull \hbox (0.73854pt too wide) in paragraph at lines 26--31
-\OT1/cmr/m/sl/10 Hard-ware: \OT1/cmr/m/n/10 HP/Soltec Os-cilis-copes, Tek-troni
-x Func-tion Gen-er-a-tors, var-i-ous other chem-
- []
-
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 36.
-(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+(Font)              <5> on input line 24.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 33.
+(/usr/share/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 36.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 33.
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--70
+Underfull \hbox (badness 10000) in paragraph at lines 68--73
 
  []
 
@@ -88,12 +77,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--70
 
 ] ) 
 Here is how much of TeX's memory you used:
- 304 strings out of 493849
- 3293 string characters out of 1152846
- 54015 words of memory out of 3000000
- 3661 multiletter control sequences out of 15000+50000
+ 304 strings out of 495064
+ 3268 string characters out of 3182696
+ 52459 words of memory out of 3000000
+ 3568 multiletter control sequences out of 15000+200000
  4906 words of font info for 18 fonts, out of 3000000 for 9000
- 714 hyphenation exceptions out of 8191
+ 14 hyphenation exceptions out of 8191
  29i,4n,21p,165b,157s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on resume.dvi (1 page, 3344 bytes).
+Output written on resume.dvi (1 page, 3220 bytes).
