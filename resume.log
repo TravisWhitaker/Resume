@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=latex 2013.5.20)  15 OCT 2013 08:57
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2014.3.11)  30 SEP 2014 19:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -54,35 +54,52 @@ LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--23
+Underfull \hbox (badness 10000) in paragraph at lines 15--20
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 24.
+(Font)              <7> on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 24.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 33.
+(Font)              <5> on input line 20.
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--24
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 29.
 (/usr/share/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 33.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 29.
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--74
+Underfull \hbox (badness 10000) in paragraph at lines 63--68
 
  []
 
 [1
 
-] ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] ) 
 Here is how much of TeX's memory you used:
- 304 strings out of 495064
- 3268 string characters out of 3182696
- 52459 words of memory out of 3000000
- 3568 multiletter control sequences out of 15000+200000
- 4906 words of font info for 18 fonts, out of 3000000 for 9000
+ 307 strings out of 495062
+ 3299 string characters out of 3182744
+ 53459 words of memory out of 3000000
+ 3569 multiletter control sequences out of 15000+200000
+ 5252 words of font info for 19 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 29i,4n,21p,175b,157s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,4n,21p,190b,157s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr
+/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmti10.pfb>
+Output written on resume.pdf (1 page, 89520 bytes).
+PDF statistics:
+ 36 PDF objects out of 1000 (max. 8388607)
+ 25 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on resume.dvi (1 page, 3204 bytes).
